@@ -1,16 +1,17 @@
 # Arch Linux Installation Documentation
 
-This is the process I went through to install Arch Linux in VMware Workstation.
+Author: Samantha Phillips
+Date: October 25, 2021
+Overview: This is the process I went through to install Arch Linux in VMware Workstation.
 
 Resources:
-
 
 - https://wiki.archlinux.org/title/Installation_guide
 - https://itsfoss.com/install-arch-linux/
 - https://linuxhint.com/arch_linux_network_manager/
 
 
-**IMPORTANT: Unless specified, use the default options when running commands**
+**IMPORTANT NOTE: Unless specified, use the default options when running commands**
 
 ## Pre-Installation
 
